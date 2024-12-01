@@ -10,4 +10,4 @@ function createStar() {
     }, 5000);
 }
 
-setInterval(createStar, 100);
+setInterval(createStar, 200);
